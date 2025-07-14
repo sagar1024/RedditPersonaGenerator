@@ -1,12 +1,12 @@
 # Reddit Persona Generator
 
-Reddit Persona Generator is a Streamlit-based application that scrapes Reddit user data and generates a structured user persona using Google Gemini's language model (Gemini 1.5 Flash).
+Reddit Persona Generator is an application that scrapes Reddit user data and generates a structured user persona using Google Gemini 2.5 Flash.
 
 ## Features
 
 1. Scrapes posts and comments from any public Reddit user profile
 2. Uses Google Gemini API to generate a structured user persona
-3. Persona output includes sections like name, occupation, motivations, behaviors, and citations to specific Reddit content
+3. Persona output includes sections like name, occupation, motivations, behaviors, and citations.
 4. Simple and intuitive Streamlit web interface
 5. Output is downloadable as a text file
 6. API keys are securely loaded via a .env file
