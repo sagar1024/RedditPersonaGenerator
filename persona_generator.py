@@ -1,5 +1,3 @@
-# persona_generator.py
-
 import google.generativeai as genai
 from config import GEMINI_API_KEY
 
@@ -19,25 +17,25 @@ def build_prompt(username, data):
         content += f"COMMENT: {comment['text']}\nURL: {comment['url']}\n\n"
 
     return f"""
-You are an AI UX researcher. Based on the Reddit posts and comments below, create a structured user persona.
 
-FORMAT:
-NAME: {username}
-AGE:
-OCCUPATION:
-STATUS:
-LOCATION:
-ARCHETYPE:
-PERSONALITY:
-MOTIVATIONS:
-BEHAVIORS & HABITS:
-FRUSTRATIONS:
-GOALS & NEEDS:
-CITATIONS: Mention Reddit URLs used to infer each section.
+    You are an AI UX researcher. Based on the Reddit posts and comments below, create a structured user persona.
 
-DATA:
-{content}
-"""
+    FORMAT:
+    NAME: {username}
+    AGE:
+    OCCUPATION:
+    STATUS:
+    LOCATION:
+    ARCHETYPE:
+    PERSONALITY:
+    MOTIVATIONS:
+    BEHAVIORS & HABITS:
+    FRUSTRATIONS:
+    GOALS & NEEDS:
+    CITATIONS: Mention Reddit URLs used to infer each section.
+
+    DATA:
+    {content} """
 
 def generate_persona(username, data):
     prompt = build_prompt(username, data)
@@ -46,4 +44,4 @@ def generate_persona(username, data):
         response = model.generate_content(prompt)
         return response.text
     except Exception as e:
-        return f"❌ Error generating persona: {e}"
+        return f"Error generating persona: {e}"

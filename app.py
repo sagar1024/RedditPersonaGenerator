@@ -1,12 +1,13 @@
 import streamlit as st
+import os
 from reddit_scraper import scrape_user_data
 from persona_generator import generate_persona
 from utils import extract_username, save_persona_to_file
-import os
 
 st.set_page_config(page_title="Reddit Persona Generator", layout="centered")
 
 st.title("Reddit Persona Generator")
+
 st.caption("Generate a structured user persona using Google Gemini API and Reddit data.")
 
 input_value = st.text_input("Enter Reddit Username or Profile URL", placeholder="e.g. https://www.reddit.com/user/kojied/")

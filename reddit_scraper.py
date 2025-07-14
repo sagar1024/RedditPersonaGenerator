@@ -10,6 +10,7 @@ def create_reddit_client():
 
 def scrape_user_data(username, post_limit=50, comment_limit=50):
     reddit = create_reddit_client()
+    
     user = reddit.redditor(username)
 
     posts, comments = [], []
