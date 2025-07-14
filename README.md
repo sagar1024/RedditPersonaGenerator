@@ -16,7 +16,7 @@ Reddit Persona Generator is an application that scrapes Reddit user data and gen
 
 ```
 bash
-git clone https://github.com/your-username/reddit-persona-generator.git
+git clone https://github.com/your-username/RedditPersonaGenerator.git
 cd RedditPersonaGenerator
 ```
 
