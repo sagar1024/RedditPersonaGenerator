@@ -27,10 +27,7 @@ bash
 pip install -r requirements.txt
 ```
 
-3. Create a .env file and fill in your API keys:
-
-Reddit API keys (from https://www.reddit.com/prefs/apps)
-Gemini API key (from https://aistudio.google.com/app/apikey)
+3. Create a .env file and fill in your API keys: Reddit API keys (from https://www.reddit.com/prefs/apps), Gemini API key (from https://aistudio.google.com/apikey)
 
 4. Run the application:
 
