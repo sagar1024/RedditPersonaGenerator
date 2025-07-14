@@ -18,7 +18,7 @@ Reddit Persona Generator is a Streamlit-based application that scrapes Reddit us
 ```
 bash
 git clone https://github.com/your-username/reddit-persona-generator.git
-cd reddit-persona-generator
+cd RedditPersonaGenerator
 ```
 
 2. Install dependencies:
