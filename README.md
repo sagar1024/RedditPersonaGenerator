@@ -71,4 +71,4 @@ streamlit run app.py
 ## License
 This project is for educational and demonstration purposes only.
 
-Developed by - SAGAR GURUNG
+## Developed by - SAGAR GURUNG
