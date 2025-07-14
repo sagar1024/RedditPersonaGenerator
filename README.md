@@ -9,7 +9,6 @@ Reddit Persona Generator is an application that scrapes Reddit user data and gen
 3. Persona output includes sections like name, occupation, motivations, behaviors, and citations.
 4. Simple and intuitive Streamlit web interface
 5. Output is downloadable as a text file
-6. API keys are securely loaded via a .env file
 
 ## Setup Instructions
 
