@@ -1,0 +1,35 @@
+**NAME:** Yash
+
+**AGE:** 19-20 (BTech ECE student, 2026 batch)
+
+**OCCUPATION:** BTech ECE Student, Backend/Full Stack Development Intern (EagleVerse)
+
+**STATUS:** Student
+
+**LOCATION:** India (inferred from subreddit r/developersIndia and use of Hindi phrases)
+
+**ARCHETYPE:** The Aspiring Developer
+
+**PERSONALITY:** Inquisitive, driven, persistent, slightly frustrated, open to learning and feedback, self-aware of his skill level, values practical experience.  He's comfortable sharing his struggles and seeking help from the community.
+
+**MOTIVATIONS:** To secure a well-paying internship or job in software development, particularly backend development; to gain practical experience and improve his skills; to learn from others' experiences.  He's motivated by achieving tangible results and seeing his projects come to life.
+
+
+**BEHAVIORS & HABITS:** Actively applies for many roles (120+ on LinkedIn); tailors his resume to match job descriptions; uses LinkedIn, job boards, and online resources (YouTube) for learning; participates actively in online developer communities (Reddit); seeks feedback on his resume and code; utilizes ChatGPT for resume optimization; works long hours and is comfortable with a fast-paced startup environment.
+
+
+**FRUSTRATIONS:** Frequent rejections despite meeting job requirements (perceived automated rejections); difficulty in getting calls despite applying extensively; dealing with fast-paced, chaotic startup environments; navigating the complexities of the job market; challenges in finding relevant and helpful information; unclear expectations in the internship process, such as dealing with deceptive internship opportunities (RecruitForge, InternPe).
+
+**GOALS & NEEDS:** To land a well-suited internship or full-time role that aligns with his skills and interests in backend development; to receive constructive feedback on his resume and skillset; to improve his skills and gain practical experience; clear and transparent internship application and selection process; improved understanding of the job market for junior developers in India.
+
+
+**CITATIONS:**
+
+* **Age & Occupation:**  https://reddit.com/r/developersIndia/comments/1lwhtcn/internship_rejection_insight_resume_downloaded_at/
+* **Location:** https://reddit.com/r/developersIndia/comments/1lwhtcn/internship_rejection_insight_resume_downloaded_at/, use of Hindi phrases throughout comments.
+* **Personality & Behaviors:** https://reddit.com/r/developersIndia/comments/1lwhtcn/internship_rejection_insight_resume_downloaded_at/, https://reddit.com/r/developersIndia/comments/1ljvdnv/working_at_a_early_stage_startup_my_experience_as/,  various comments requesting feedback and sharing experiences.
+* **Motivations & Frustrations:**  https://reddit.com/r/developersIndia/comments/1lwhtcn/internship_rejection_insight_resume_downloaded_at/, https://reddit.com/r/developersIndia/comments/1lw5h7j/4th_year_btech_no_calls_from_anywhere_roast_my/n2bsaod/, various comments expressing frustration with the job search.
+* **Goals & Needs:** https://reddit.com/r/developersIndia/comments/1lwhtcn/internship_rejection_insight_resume_downloaded_at/,  comments seeking advice and feedback on resumes.
+
+
+**NOTE:** Several comments were irrelevant and excluded from the persona construction as they did not contribute to a coherent understanding of Yash's user profile.  These were comments on unrelated subreddits or contained generic or nonsensical content.
