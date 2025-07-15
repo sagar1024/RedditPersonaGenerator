@@ -35,7 +35,12 @@ def build_prompt(username, data):
     CITATIONS: Mention Reddit URLs used to infer each section.
 
     DATA:
-    {content} """
+    {content}
+    
+    Note -
+        1. describe the persona with one or two word at the top
+        2. please don't put BOLD letters in the response
+        3. put the citations in the end after writing the persona """
 
 def generate_persona(username, data):
     prompt = build_prompt(username, data)
@@ -45,3 +50,4 @@ def generate_persona(username, data):
         return response.text
     except Exception as e:
         return f"Error generating persona: {e}"
+    
